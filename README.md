@@ -20,5 +20,6 @@ Kullanıcıya gün, saat, dakika ve saniye olarak yeni yıla kalan süreyi göst
 - **CSS3**  
 - **JavaScript (Vanilla JS)**
 
-- 👤 Geliştirici
+
+## 👤 Geliştirici
   Arda24
