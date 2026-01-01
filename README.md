@@ -1,8 +1,8 @@
 # 2026GeriSayim
 
-# 🎉 2026 Yeni Yıl Geri Sayım Uygulaması
+# 🎉 2027 Yeni Yıl Geri Sayım Uygulaması
 
-Bu proje, **2026 yılına geri sayım** yapan basit ve şık bir web uygulamasıdır.  
+Bu proje, **2027 yılına geri sayım** yapan basit ve şık bir web uygulamasıdır.  
 Kullanıcıya gün, saat, dakika ve saniye olarak yeni yıla kalan süreyi gösterir.  
 
 ## 🚀 Özellikler
